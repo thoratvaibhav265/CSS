@@ -94,3 +94,9 @@ CSS Box Model:
 body{
   margin:0;
 }
+
+If we got two block elements Margin Collpses then we can use margin top or bottom  
+
+"TEXT wale properties INHERIT hote hain (jaise DNA), BOX wale properties INHERIT NAHI hote (jaise Property/Paisa)"
+
+box-sizing:border-box

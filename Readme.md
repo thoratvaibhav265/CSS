@@ -100,3 +100,15 @@ If we got two block elements Margin Collpses then we can use margin top or botto
 "TEXT wale properties INHERIT hote hain (jaise DNA), BOX wale properties INHERIT NAHI hote (jaise Property/Paisa)"
 
 box-sizing:border-box
+
+<ul class="main-nav__items">
+                <li class="main-nav__item"><a href="packages/index.html">Packages</a></li>
+                <li class="main-nav__item"><a href="cutomers/index.html">Customers</a></li>
+                <li class="main-nav__item"><a href="start-hosting/index.html">Start Hosting</a></li>
+            </ul> ab main le last wale anchor tag ko pading diya 20 px toh left aur right se lgega but li ko diya toh all 4 sides se lgega aisa kyu
+
+Mnemonic:
+"Inline-block Row mein sabko FIT hona zaroori — ek ne 100% maang li toh doosre ko NEXT LINE jaana padega!"
+Isiliye calc(100% - 60px) sahi tha:
+Logo(~60px) + Nav(100% - 60px) = Exactly 100% → Same line pe fit! ✅
+----------------------------------------------------------------------

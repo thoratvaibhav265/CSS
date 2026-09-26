@@ -112,3 +112,15 @@ Mnemonic:
 Isiliye calc(100% - 60px) sahi tha:
 Logo(~60px) + Nav(100% - 60px) = Exactly 100% → Same line pe fit! ✅
 ----------------------------------------------------------------------
+Selector and Other Features:
+
+
+--------------------------------------------------------
+Background Images:
+background:
+
+
+
+
+-----------------------------------------------------------------------
+SCSS/SASS:

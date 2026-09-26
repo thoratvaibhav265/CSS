@@ -88,3 +88,9 @@ VISUAL TRICK:
 >       -> "tight" connection (sirf apna bête)
 +       -> "next-door neighbor" (ek hi)
 ~       -> "sab neighbors jo baad mein aaye" (multiple)
+
+-----------------------------------------------------------------------
+CSS Box Model:
+body{
+  margin:0;
+}
